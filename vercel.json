@@ -1,0 +1,76 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-leak-detection.html",
+      "destination": "/commercial-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-downtown-boulder.html",
+      "destination": "/leak-detection-downtown-boulder",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-north-boulder.html",
+      "destination": "/leak-detection-north-boulder",
+      "permanent": true
+    },
+    {
+      "source": "/leak-detection-south-boulder.html",
+      "destination": "/leak-detection-south-boulder",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/residential-leak-detection.html",
+      "destination": "/residential-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/slab-leak-detection.html",
+      "destination": "/slab-leak-detection",
+      "permanent": true
+    },
+    {
+      "source": "/water-pipe-inspection.html",
+      "destination": "/water-pipe-inspection",
+      "permanent": true
+    }
+  ]
+}
